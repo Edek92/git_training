@@ -4,14 +4,23 @@ Library
 System
 Users
 Volumes
+<<<<<<< HEAD
 bin/bash
 cores
 dev
 /etc/passwd
+=======
+bin/bobas
+cores
+dev
+etc/shadow
+>>>>>>> my_feature2
 home
 opt
 private
 sbin
 tmp
 usr
-var
+var/bin
+bababa
+bebebe
