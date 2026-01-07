@@ -4,10 +4,10 @@ Library
 System
 Users
 Volumes
-bin
+bin/bash
 cores
 dev
-etc
+/etc/passwd
 home
 opt
 private
