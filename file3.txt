@@ -8,12 +8,3 @@ bin/bash
 cores
 dev
 /etc/passwd
-home
-opt
-private
-sbin
-tmp
-usr
-var/bin
-bababa
-bebebe
